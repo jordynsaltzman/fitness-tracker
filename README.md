@@ -1,12 +1,26 @@
 # Fitness Tracker
-A consumer will reach their fitness goals quicker when they track their workout progress. Using a Mongo database with a Mongoose schema, this application allows users to track 
-their workouts so that they can acheive their goals. 
 
-## Description
+This application allows users to track their workouts so that they are more likely to acheive their fitness goals. It uses a Mongo database with a Mongoose schema and handles routes with Express.
+
+## Preview
+
+![Screenshot](./public/assets/images/screenshot.JPG)
 
 ## Usage
 
-## License 
+1. Clone the repo
+2. Run `npm install` to install dependencies
+3. Run `mongod`
+4. Run `npm start`
+
+When the user loads the page, they are given the option to create a new workout, or continue with their last workout.
+The user is able to:
+
+- Add exercises to a previous workout plan.
+- Add new exercises to a new workout plan.
+- View multiple the combined weight of multiple exercises on the stats page.
+
+## License
 
 MIT License
 

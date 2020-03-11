@@ -17,7 +17,6 @@ module.exports = function(app) {
           console.log(error);
         } else {
           res.send(success);
-          console.log(success);
         }
       }
     );
