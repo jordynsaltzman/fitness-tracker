@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.static("public"));
 htmlRoutes(app);
 apiRoutes(app);
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/populatedb", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useNewUrlParser: true
 });
 
