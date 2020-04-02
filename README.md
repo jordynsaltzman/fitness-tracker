@@ -4,8 +4,6 @@ This application allows users to track their workouts so that they are more like
 
 For this assignment, we were provided with the frondend code (some of which was broken) and were required to write code to connect to a NoSQL database.  I created the model used in the database based on the procided seed file, then wrote code for the routes based off of the methods used in the frontend api.js file.
 
-
-
 ## Preview
 
 ![Screenshot](./public/assets/images/screenshot.JPG)
@@ -23,6 +21,9 @@ The user is able to:
 - Add exercises to a previous workout plan.
 - Add new exercises to a new workout plan.
 - View multiple the combined weight of multiple exercises on the stats page.
+
+App intended functionality was slightly unclear, but it is working as intended (although not how I would design this app...)
+
 
 ## License
 
