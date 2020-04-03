@@ -2,7 +2,7 @@
 
 This application allows users to track their workouts so that they are more likely to acheive their fitness goals. It uses a Mongo database with a Mongoose schema and handles routes with Express.
 
-For this assignment, we were provided with the frondend code (some of which was broken) and were required to write code to connect to a NoSQL database.  I created the model used in the database based on the procided seed file, then wrote code for the routes based off of the methods used in the frontend api.js file.
+For this assignment, we were provided with the frondend code (some of which was broken) and were required to write code to connect to a NoSQL database.  I created the model used in the database based on the provided seed file, then wrote code for the routes based off of the methods used in the frontend api.js file.
 
 ## Preview
 
